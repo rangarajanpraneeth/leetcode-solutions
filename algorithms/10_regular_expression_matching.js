@@ -1,4 +1,11 @@
 /**
+ * time complexity: O(m * n)
+ * space complexity: O(m * n)
+ * 
+ * explanation: dynamic programming table dp[i][j] true if s[0...i] matches p[0...i]
+ * handles three cases: direct char match, * meaning 0 of prev, * meaning one or more of prev
+ */
+/**
  * @param {string} s
  * @param {string} p
  * @return {boolean}

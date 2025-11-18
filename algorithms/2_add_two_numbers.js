@@ -1,4 +1,12 @@
 /**
+ * time complexity: O(max(m, n))
+ * space complexity: O(max(m, n))
+ * 
+ * explanation: simulate elementary addition on two reversed linked lists
+ * traverse both lists, sum corresponding digits and carry
+ * create a new list whose digits represent the result
+ */
+/**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)

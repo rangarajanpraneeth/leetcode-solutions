@@ -1,4 +1,12 @@
 /**
+ * time complexity: O(n)
+ * space complexity: O(1)
+ * 
+ * explanation: convert each symbol to its value
+ * if a symbol is smaller than the one after it, subtract it, otherwise add it
+ * this handles subtractive notation (IV, IX, etc)
+ */
+/**
  * @param {string} s
  * @return {number}
  */

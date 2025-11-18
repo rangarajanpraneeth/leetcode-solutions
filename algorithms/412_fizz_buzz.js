@@ -1,4 +1,10 @@
 /**
+ * time complexity: O(n)
+ * space complexity: O(n)
+ * 
+ * explanation: its fizz buzz, what more could i explain
+ */
+/**
  * @param {number} n
  * @return {string[]}
  */

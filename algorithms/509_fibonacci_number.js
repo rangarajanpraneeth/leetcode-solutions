@@ -1,4 +1,11 @@
 /**
+ * time complexity: O(2^n)
+ * space complexity: O(n)
+ * 
+ * explanation: naive recursion: f(n) = f(n - 1) + f(n - 2)
+ * no memoization so each call recomputes subproblems
+ */
+/**
  * @param {number} n
  * @return {number}
  */

@@ -1,4 +1,12 @@
 /**
+ * time complexity: O(n * k)
+ * space complexity: O(k)
+ * 
+ * explanation: start with 1 the iteratively build the next string by reading off the previous one
+ * count consecutive repeated digits and append "count + digit"
+ * repeat until reaching the nth term
+ */
+/**
  * @param {number} n
  * @return {string}
  */
