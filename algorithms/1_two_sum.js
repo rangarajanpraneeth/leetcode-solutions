@@ -1,4 +1,6 @@
 /**
+ * easy
+ * 
  * time complexity: O(n)
  * space complexity: O(n)
  * 
@@ -6,6 +8,8 @@
  * for each number compute the complement (target - nums[i])
  * if the complement exists in the hashmap return both indices
  * this is a one pass solution to avoid nested loops
+ * 
+ * 4/18/2025
  */
 /**
  * @param {number[]} nums

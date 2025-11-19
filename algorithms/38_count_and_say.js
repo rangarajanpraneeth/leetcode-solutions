@@ -1,10 +1,14 @@
 /**
+ * medium
+ * 
  * time complexity: O(n * k)
  * space complexity: O(k)
  * 
  * explanation: start with 1 the iteratively build the next string by reading off the previous one
  * count consecutive repeated digits and append "count + digit"
  * repeat until reaching the nth term
+ * 
+ * 4/18/2025
  */
 /**
  * @param {number} n

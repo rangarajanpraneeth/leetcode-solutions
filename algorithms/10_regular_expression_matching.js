@@ -1,9 +1,13 @@
 /**
+ * hard
+ * 
  * time complexity: O(m * n)
  * space complexity: O(m * n)
  * 
  * explanation: dynamic programming table dp[i][j] true if s[0...i] matches p[0...i]
  * handles three cases: direct char match, * meaning 0 of prev, * meaning one or more of prev
+ * 
+ * 4/18/2025
  */
 /**
  * @param {string} s

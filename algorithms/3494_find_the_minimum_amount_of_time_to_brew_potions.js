@@ -1,10 +1,14 @@
 /**
+ * medium
+ * 
  * time complexity: O(n * m)
  * space complexity: O(n)
  * 
  * explanation: precompute prefix and sums of skill values
  * for each mana step, computer max delta using cumulative skills to decide optimal cutting points
  * accumulate the minimal brewing time contribution for each mana level and finish by adding the last segment cost
+ * 
+ * 10/9/2025
  */
 /**
  * @param {number[]} skill

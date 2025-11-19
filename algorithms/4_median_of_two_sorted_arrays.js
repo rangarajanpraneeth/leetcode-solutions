@@ -1,9 +1,13 @@
 /**
+ * hard
+ * 
  * time complexity: O(log(min(m, n)))
  * space complexity: O(1)
  * 
  * explanation: binary search on the smaller array to find the correct partition
  * once a valid partition is found, compute the median from boundary elements
+ * 
+ * 4/12/2025
  */
 /**
  * @param {number[]} nums1

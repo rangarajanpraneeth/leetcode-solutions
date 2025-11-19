@@ -1,10 +1,14 @@
 /**
+ * medium
+ * 
  * time complexity: O(max(m, n))
  * space complexity: O(max(m, n))
  * 
  * explanation: simulate elementary addition on two reversed linked lists
  * traverse both lists, sum corresponding digits and carry
  * create a new list whose digits represent the result
+ * 
+ * 4/18/2025
  */
 /**
  * Definition for singly-linked list.

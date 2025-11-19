@@ -1,4 +1,6 @@
 /**
+ * medium
+ * 
  * time complexity: O(n)
  * space complexity: O(min(n, k))
  * 
@@ -6,6 +8,8 @@
  * if a char repeats inside the current window, move the start pointer to the right after its prev occurence
  * update longest window length as we expand end pointer
  * this ensures each char is visited at most twice, giving an O(n) solution
+ * 
+ * 11/18/2025
  */
 /**
  * @param {string} s

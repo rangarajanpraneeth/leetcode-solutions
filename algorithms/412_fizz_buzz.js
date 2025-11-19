@@ -1,8 +1,12 @@
 /**
+ * easy
+ * 
  * time complexity: O(n)
  * space complexity: O(n)
  * 
  * explanation: its fizz buzz, what more could i explain
+ * 
+ * 4/18/2025
  */
 /**
  * @param {number} n
