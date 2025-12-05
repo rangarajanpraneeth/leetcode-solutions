@@ -1,2 +1,2 @@
 CS equivalent of shitposting.<br>
-Road to 2k LeetCode problems solved!
+Road to 100 LeetCode problems solved!
