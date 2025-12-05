@@ -1,3 +1,2 @@
-Mediocre LeetCode solutions!
-
-The order I do these in is completely random.
+CS equivalent of shitposting.<br>
+Road to 2k LeetCode problems solved!
