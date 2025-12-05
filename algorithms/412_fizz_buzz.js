@@ -4,7 +4,7 @@
  * time complexity: O(n)
  * space complexity: O(n)
  * 
- * explanation: its fizz buzz, what more could i explain
+ * explanation: its fizz buzz, what more can i say?
  * 
  * 4/18/2025
  */
